@@ -1,0 +1,11 @@
+Group d
+Names:
+Kabogoza Dirisa
+Ainebyoona Geofrey
+Onyango Walter
+Awor Beatrice
+
+description of what we learnt
+  - cloning
+  - creating a repository
+  - linking IDE to github
