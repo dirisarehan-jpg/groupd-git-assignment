@@ -9,3 +9,4 @@ description of what we learnt
   - cloning
   - creating a repository
   - linking IDE to github
+  -pushing
